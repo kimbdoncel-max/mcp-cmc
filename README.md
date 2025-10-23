@@ -1,3 +1,3 @@
 ENV:
-- MCP_ACCESS_TOKEN = un_token_largo_seguro
-- CMC_API_KEY      = tu_clave_de_CoinMarketCap
+- MCP_ACCESS_TOKEN = 534677865346778653467786
+- CMC_API_KEY      = 84709667c88d4a34ab54e93f27fbd1ff
